@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DKBenny03
-- 🌱 I’m currently working in PHP and Java
+- 🌱 I’m currently working in PHP (Laravel) and Java
 - 📫 Contact me on discord - DKBenny#1111
